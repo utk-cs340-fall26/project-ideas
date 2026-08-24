@@ -17,13 +17,13 @@ The social features provided by the music streaming apps currently available on 
 
 ## Technologies
 
-Frontend: React + TypeScript + Vite + Socket.io-client
-Backend: Node.js + Express + Socket.io
-Database: PostgreSQL + Prisma
-Real-time: Socket.io
-Music Data: YouTube Music API or Genius
-Hosting: Railway or Render
-Programming Languages: Typescript + HTML/CSS
+- Frontend: React + TypeScript + Vite + Socket.io-client
+- Backend: Node.js + Express + Socket.io
+- Database: PostgreSQL + Prisma
+- Real-time: Socket.io
+- Music Data: YouTube Music API or Genius
+- Hosting: Railway or Render
+- Programming Languages: Typescript + HTML/CSS
 
 ## Intended Users
 
