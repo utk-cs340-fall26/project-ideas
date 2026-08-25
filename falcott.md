@@ -8,7 +8,7 @@ When looking at the list educational games out there, a lot center around teachi
 
 ---
 
-## What problem this would solve
+## What problems this game would solve
 
 One common downfall that I have noticed with every typing game I have ever interacted with is that they are all web based and they all are full of ads. With this game you can download it directly to your computer and use it as much as you like. In addition it will teach you basic typing skills like using the home row, increasing your words per minute, and having less errors in your typing.
 
