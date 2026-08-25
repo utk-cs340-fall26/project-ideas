@@ -25,9 +25,9 @@ One common downfall that I have noticed with every typing game I have ever inter
 
 ## List of technologies that may be potenially used
 
-**Languages**: C++, Python
-**C++ Libaries**: Unreal, Raylib, SFML (Simple and Fast Multimedia)
-**Python Libaries**: Pygame, Tkinter, PyInstaller
+- **Languages**: C++, Python
+- **C++ Libaries**: Unreal, Raylib, SFML (Simple and Fast Multimedia)
+- **Python Libaries**: Pygame, Tkinter, PyInstaller
 
 ---
 
