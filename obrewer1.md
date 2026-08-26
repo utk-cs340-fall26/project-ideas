@@ -1,0 +1,9 @@
+My proposal for this group project is audio-to-text software that is both easy to operate and free to use. The project would be focused on the translation of audio into comprehensible text, with the addition of other note-taking
+qualities that would make transcribing the text easier for the user. The inclusion of timestamps, bookmarks, and quick notes would allow users to understand their recordings better, as well as help the user when they return to
+older recordings. This program would solve the lack of free to use audio-to-text software apps that are publicly available. I am a student who requires one of these programs to properly study in college. However, the program I use
+had to not only be approved by the college itself, but must be paid for with a subscription, and the price isn't cheap. There are friends of mine who would love to have an app like this for themselves who cannot afford it.
+My goal with this software is to try to make my own free version so my friends could have something they could use, since they are not able to get the paid versions of these apps. The major features include audio recording, audio
+uploading, audio transcription, timed notes, bookmarking, organization of audio into folders, and summaries of transcriptions. The tools and languages required are Node.js, Express, SQLite, multer, fast-whisper, FFmpeg, HTML, CSS,
+JS, python, and VS Code. The intended users for this software are students like me who struggle with taking notes in class. I am slow when it comes to taking notes and I often miss spoken details during lectures, so I need to have
+audio recordings of the lectures that I listen to after classes to double check my notes. Then, there is my friend, who has dyslexia and struggles with understanding words at times, so this software would also be useful for him!
+~
