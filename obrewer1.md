@@ -18,4 +18,3 @@ The major features include audio recording, audio uploading, audio transcription
 
 The intended users for this software are students like me who struggle with taking notes in class. I am slow when it comes to taking notes and I often miss spoken details during lectures, so I need to have
 audio recordings of the lectures that I listen to after classes to double check my notes. Then, there is my friend, who has dyslexia and struggles with understanding words at times, so this software would also be useful for him!
-~
