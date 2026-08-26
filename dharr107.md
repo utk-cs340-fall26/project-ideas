@@ -3,7 +3,7 @@
 ## Brief summary  
 My proposal for the cs340 group project is a scheduling app that allows groups to coordinate their events. The app would allow users to show their availability to other people in their group, their preferred times, deadlines, and upcoming events in an easy to understand format.
 
-##Problem it solves  
+## Problem it solves  
 This app solves the problem of convoluted schedules due to miscommunication between group members. It also makes the process easier so you don’t have to learn how to use something like excel or so you are not constantly changing event times because it doesn’t work for someone.
 
 ## Features
